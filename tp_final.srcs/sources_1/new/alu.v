@@ -36,7 +36,9 @@ module alu(
             `OPERATOR_LENGTH'b0000: result = first_arg & second_arg;
             `OPERATOR_LENGTH'b0001: result = first_arg | second_arg;
             `OPERATOR_LENGTH'b0010: result = first_arg + second_arg;
-            `OPERATOR_LENGTH'b0110: result = first_arg - second_arg;
+            `OPERATOR_LENGTH'b0110: result = first_arg - second_arg;            //TODO ver orden
+            `OPERATOR_LENGTH'b0111: result = {first_arg - second_arg}>>32;      //TODO  ver slt (a-b)[32]
+            `OPERATOR_LENGTH'b1100: result = ~(first_arg | second_arg);
             default: result = {`ARGUMENT_LENGTH{1'b0}};
         endcase
     end
