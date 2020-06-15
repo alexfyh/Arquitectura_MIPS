@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sim_1/new/tb_alu.v,1591658502,verilog,,,,tb_alu,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sim_1/new/tb_reg_file.v,1592037713,verilog,,,,tb_reg_file,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sources_1/imports/Arquitectura_TP3/univ_bin_counter.v,1590983809,verilog,,/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sources_1/new/top.v,,univ_bin_counter,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sources_1/new/alu.v,1591655579,verilog,,/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sim_1/new/tb_alu.v,,alu,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sources_1/new/reg_file.v,1592037554,verilog,,/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sim_1/new/tb_reg_file.v,,reg_file,,,,,,,,
+/home/alexyh/Escritorio/Arquitectura/tp_final/tp_final.srcs/sources_1/new/top.v,1590986297,verilog,,,,top,,,,,,,,
